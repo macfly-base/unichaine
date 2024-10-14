@@ -1,5 +1,5 @@
 # unichaine
-ERC20 contrat token on unichaine
+
 <h2 align=center>Deploy ERC20 Token Contract on Unichain Sepolia</h2>
 
 ## Prerequisites
