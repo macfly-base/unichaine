@@ -13,8 +13,8 @@
 ## Installation
 - You can use either this command
 ```bash
-  [ -f "unichain.sh" ] && rm unichain.sh; wget -q https://raw.githubusercontent.com/macfly-base/unichain/refs/heads/main/unichain.sh && chmod +x unichain.sh && ./unichain.sh
+  [ -f "unichaine.sh" ] && rm unichaine.sh; wget -q https://raw.githubusercontent.com/macfly-base/unichaine/refs/heads/main/unichaine.sh && chmod +x unichaine.sh && ./unichaine.sh
 ```
 - Or this command to run this script
 ```bash
-[ -f "unichain.sh" ] && rm unichain.sh; curl -sSL -o unichain.sh https://raw.githubusercontent.com/macfly-base/unichain/refs/heads/main/unichain.sh && chmod +x unichain.sh && ./unichain.sh
+[ -f "unichaine.sh" ] && rm unichaine.sh; curl -sSL -o unichaine.sh https://raw.githubusercontent.com/macfly-base/unichaine/refs/heads/main/unichaine.sh && chmod +x unichaine.sh && ./unichaine.sh
